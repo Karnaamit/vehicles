@@ -1,84 +1,84 @@
 {
-        id: 1,
-        name: 'AUDI',
-        number:'MH 01 AS 1234',
-        owner: 'Aashutosh Karna',
-        yop: '2015'
+        "id": 1,
+        "name": 'AUDI',
+        "number":'MH 01 AS 1234',
+        "owner": 'Aashutosh Karna',
+        "yop": '2015'
     },
     {
-        id: 2,
-        name: 'FORD',
-        number:'MH 01 AW 2628',
-        owner: 'Jeetu Sharma',
-        yop: '2015'
+        "id": 2,
+        "name": 'FORD',
+        "number":'MH 01 AW 2628',
+        "owner": 'Jeetu Sharma',
+        "yop": '2015'
     },
     {
         id: 3,
-        name: 'OLD MUSTANG',
-        number:'MH 01 RF 7860',
-        owner: 'Rishu Karna',
-        yop: '2013'
+        "name": 'OLD MUSTANG',
+        "number":'MH 01 RF 7860',
+        "owner": 'Rishu Karna',
+        "yop": '2013'
     },
     {
-        id: 4,
-        name: 'FORD MUSTANG',
-        number:'MH 01 NK 3693',
-        owner: 'Amit Karna',
-        yop: '2012'
+        "id": 4,
+        "name": 'FORD MUSTANG',
+        "number":'MH 01 NK 3693',
+        "owner": 'Amit Karna',
+        "yop": '2012'
     },
     {
-        id: 5,
-        name: 'PORCHE',
-        number:'MH 01 DF 3839',
-        owner: 'Bharat Rimal',
-        yop: '2010'
+        "id": 5,
+        "name": 'PORCHE',
+        "number":'MH 01 DF 3839',
+        "owner": 'Bharat Rimal',
+        "yop": '2010'
     },
     {
-        id: 6,
-        name: 'TOYOTA',
-        number:'MH 01 SE 7678',
-        owner: 'Yubraj Panta',
-        yop: '2010'
+        "id": 6,
+        "name": 'TOYOTA',
+        "number":'MH 01 SE 7678',
+        "owner": 'Yubraj Panta',
+        "yop": '2010'
     },
     {
-        id: 7,
-        name: 'i20',
-        number:'MH 01 YS 4678',
-        owner: 'Tulsi Sapkota',
-        yop: '2009'
+        "id": 7,
+        "name": 'i20',
+        "number":'MH 01 YS 4678',
+        "owner": 'Tulsi Sapkota',
+        "yop": '2009'
     },
     {
-        id: 8,
-        name: 'NANO',
-        number:'MH 01 AF 0863',
-        owner: 'Sujit Kafle',
-        yop: '2003'
+        "id": 8,
+        "name": 'NANO',
+        "number":'MH 01 AF 0863',
+        "owner": 'Sujit Kafle',
+        "yop": '2003'
     },
     {
-        id: 9,
-        name: 'MARUTI SUZUKI',
-        number:'MH 01 ED 8976',
-        owner: 'Elzin Katel',
-        yop: '1999'
+        "id": 9,
+        "name": 'MARUTI SUZUKI',
+        "number":'MH 01 ED 8976',
+        "owner": 'Elzin Katel',
+        "yop": '1999'
     },
     {
-        id: 10,
-        name: 'LAMBOURGINI',
-        number:'MH 01 JH 5456',
-        owner: 'Mona Thapa',
-        yop: '2017'
+        "id": 10,
+        "name": 'LAMBOURGINI',
+        "number":'MH 01 JH 5456',
+        "owner": 'Mona Thapa',
+        "yop": '2017'
     },
     {
-        id: 11,
-        name: 'MAHINDRA',
-        number:'MH 01 HG 5333',
-        owner: 'Ronald Basnet',
-        yop: '2013'
+        "id": 11,
+        "name": 'MAHINDRA',
+        "number":'MH 01 HG 5333',
+        "owner": 'Ronald Basnet',
+        "yop": '2013'
     },
     {
-        id: 12,
-        name: 'NISSAN',
-        number:'MH 01 AS 6729',
-        owner: 'Ranbir Kapoor',
-        yop: '2011'
+        "id": 12,
+        "name": 'NISSAN',
+        "number":'MH 01 AS 6729',
+        "owner": 'Ranbir Kapoor',
+        "yop": '2011'
     }
